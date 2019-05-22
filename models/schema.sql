@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS dopi_stocks;
+CREATE DATABASE dopi_stocks;
